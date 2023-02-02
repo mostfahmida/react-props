@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.wrapper{
+  border: 1px solid black;
+  width: 30%;
+  margin: auto ;
+  background-color: bisque;
+  margin-top: 10%;
+
+  
+  
+}
+.image{
+  width: 30%;
+  
+}
+
+.title{
+  font-size: smaller;
+}
